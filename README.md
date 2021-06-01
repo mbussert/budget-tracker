@@ -22,15 +22,15 @@ Allows users a fast and easy way to track their money. Includes offline function
 
 ## Installation:
 
-A user navigates to the deployed application URL and creates a free account by entering a username, email address, and password.
+A user navigates to the deployed application URL and can then install the application on their smart device.
 
 ## Usage:
 
-Once a user creates an account/registers, they are taken to their personal dashboard where they can see all of their posts. The available links in the navigation bar also swap over now that the user is logged in. The user may edit or delete only their posts. The edit modal is pre-populated with the post information so that the user does not have to copy & paste or retype the entire post. A user will be automatically logged out if left inactive for 5 minutes.
+As a progressive web application (PWA), a user can install this application on their smart phone or tablet and even use it offline. Enter either credits or debits to your personal budget and track purchases with ease.
 
 ## License:
 
-This application is covered under the GNU GPLv3 license.
+This application is covered under the MIT License.
 
 ## Contributing:
 
